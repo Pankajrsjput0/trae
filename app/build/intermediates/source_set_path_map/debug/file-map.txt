@@ -1,0 +1,82 @@
+com.maka.launcher.app-ads-adservices-1.0.0-beta05-0 C:\Users\Asus\.gradle\caches\8.10\transforms\04077f03c44b58ca08c88adeab9dc849\transformed\ads-adservices-1.0.0-beta05\res
+com.maka.launcher.app-foundation-release-1 C:\Users\Asus\.gradle\caches\8.10\transforms\054900366e3aafc489255310f66ad696\transformed\foundation-release\res
+com.maka.launcher.app-coordinatorlayout-1.1.0-2 C:\Users\Asus\.gradle\caches\8.10\transforms\0cd9fe90402bc517a78102c20309501e\transformed\coordinatorlayout-1.1.0\res
+com.maka.launcher.app-navigation-compose-2.7.5-3 C:\Users\Asus\.gradle\caches\8.10\transforms\0e3ef2398a17ccbfbd860902ceff0589\transformed\navigation-compose-2.7.5\res
+com.maka.launcher.app-browser-1.6.0-4 C:\Users\Asus\.gradle\caches\8.10\transforms\169f9ecb8c9fad95eb65553bc2a47933\transformed\browser-1.6.0\res
+com.maka.launcher.app-ui-graphics-release-5 C:\Users\Asus\.gradle\caches\8.10\transforms\1cd33aa4ff73da88b0129d399ac1c1b3\transformed\ui-graphics-release\res
+com.maka.launcher.app-navigation-runtime-2.7.5-6 C:\Users\Asus\.gradle\caches\8.10\transforms\1e839cbc6919480cdfb29bb16b8d7de7\transformed\navigation-runtime-2.7.5\res
+com.maka.launcher.app-ads-adservices-java-1.0.0-beta05-7 C:\Users\Asus\.gradle\caches\8.10\transforms\2924f68f76c0c4825c8b6f2deffdac2f\transformed\ads-adservices-java-1.0.0-beta05\res
+com.maka.launcher.app-hilt-navigation-1.1.0-8 C:\Users\Asus\.gradle\caches\8.10\transforms\2c3f9877e2fdf14d3001c146541fc940\transformed\hilt-navigation-1.1.0\res
+com.maka.launcher.app-animation-core-release-9 C:\Users\Asus\.gradle\caches\8.10\transforms\3055a933c21798892ba53a3f7e81b07b\transformed\animation-core-release\res
+com.maka.launcher.app-work-runtime-ktx-2.8.1-10 C:\Users\Asus\.gradle\caches\8.10\transforms\34cb0a5dcf3b3dc76dd41b66501a02d4\transformed\work-runtime-ktx-2.8.1\res
+com.maka.launcher.app-material-release-11 C:\Users\Asus\.gradle\caches\8.10\transforms\366db2a2ac176d5d0bbe47890f9abc64\transformed\material-release\res
+com.maka.launcher.app-lifecycle-viewmodel-compose-2.6.2-12 C:\Users\Asus\.gradle\caches\8.10\transforms\372996fa3d063939077b914bcc4b9984\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.maka.launcher.app-ui-tooling-preview-release-13 C:\Users\Asus\.gradle\caches\8.10\transforms\37c63a8cbcaee34e77dae1d4598ffd91\transformed\ui-tooling-preview-release\res
+com.maka.launcher.app-startup-runtime-1.1.1-14 C:\Users\Asus\.gradle\caches\8.10\transforms\3c8f3c98ea4d522c320db3a01c9ac540\transformed\startup-runtime-1.1.1\res
+com.maka.launcher.app-activity-1.8.1-15 C:\Users\Asus\.gradle\caches\8.10\transforms\3fa90679e9d13eaa756c71ad74237ad6\transformed\activity-1.8.1\res
+com.maka.launcher.app-lifecycle-service-2.6.2-16 C:\Users\Asus\.gradle\caches\8.10\transforms\43d29fedae6d2942172b15297a6f0047\transformed\lifecycle-service-2.6.2\res
+com.maka.launcher.app-lifecycle-livedata-2.6.2-17 C:\Users\Asus\.gradle\caches\8.10\transforms\45b9468c9312bd14d8a3d68c28a46921\transformed\lifecycle-livedata-2.6.2\res
+com.maka.launcher.app-work-runtime-2.8.1-18 C:\Users\Asus\.gradle\caches\8.10\transforms\4cd9d71e9ec0b8fd54a39303b9ff5618\transformed\work-runtime-2.8.1\res
+com.maka.launcher.app-room-runtime-2.6.1-19 C:\Users\Asus\.gradle\caches\8.10\transforms\4e8faad70212b223513384e4af7e027d\transformed\room-runtime-2.6.1\res
+com.maka.launcher.app-lifecycle-viewmodel-2.6.2-20 C:\Users\Asus\.gradle\caches\8.10\transforms\4f2857d7628844b2d16bc532f01e8d4f\transformed\lifecycle-viewmodel-2.6.2\res
+com.maka.launcher.app-customview-poolingcontainer-1.0.0-21 C:\Users\Asus\.gradle\caches\8.10\transforms\4f57bf6818211a3170331bef8dbb1605\transformed\customview-poolingcontainer-1.0.0\res
+com.maka.launcher.app-runtime-release-22 C:\Users\Asus\.gradle\caches\8.10\transforms\56b78fcf274f0c69aa0163ef2bc2f2f5\transformed\runtime-release\res
+com.maka.launcher.app-lifecycle-runtime-ktx-2.6.2-23 C:\Users\Asus\.gradle\caches\8.10\transforms\5800ea4ba7b1f3bddf64bfd529cc2567\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.maka.launcher.app-material3-1.1.2-24 C:\Users\Asus\.gradle\caches\8.10\transforms\58d4a784b5b66f51b6daf951838b21e2\transformed\material3-1.1.2\res
+com.maka.launcher.app-constraintlayout-2.0.1-25 C:\Users\Asus\.gradle\caches\8.10\transforms\5913d9737704d965f397a6d8c5b9ceb7\transformed\constraintlayout-2.0.1\res
+com.maka.launcher.app-profileinstaller-1.3.0-26 C:\Users\Asus\.gradle\caches\8.10\transforms\5cf53087d869b3b21fb193fba82625da\transformed\profileinstaller-1.3.0\res
+com.maka.launcher.app-activity-ktx-1.8.1-27 C:\Users\Asus\.gradle\caches\8.10\transforms\5e281498984fc053a3a8d54174419dc0\transformed\activity-ktx-1.8.1\res
+com.maka.launcher.app-hilt-work-1.1.0-28 C:\Users\Asus\.gradle\caches\8.10\transforms\5e924a838d34e348719c4f2d944e5ac1\transformed\hilt-work-1.1.0\res
+com.maka.launcher.app-material-ripple-release-29 C:\Users\Asus\.gradle\caches\8.10\transforms\60aee85f5b0bdd5a2fc11c06e6d1c2f3\transformed\material-ripple-release\res
+com.maka.launcher.app-ui-unit-release-30 C:\Users\Asus\.gradle\caches\8.10\transforms\61333caa06e63559c8ffe1e28b197259\transformed\ui-unit-release\res
+com.maka.launcher.app-emoji2-1.4.0-31 C:\Users\Asus\.gradle\caches\8.10\transforms\651342e8dad0d519d6a76e51ff6c184f\transformed\emoji2-1.4.0\res
+com.maka.launcher.app-play-services-ads-22.5.0-32 C:\Users\Asus\.gradle\caches\8.10\transforms\6a3bc638f60d3a5ead6bc841c10b5215\transformed\play-services-ads-22.5.0\res
+com.maka.launcher.app-savedstate-1.2.1-33 C:\Users\Asus\.gradle\caches\8.10\transforms\6e5e5fa652d52f8644997aceabf38165\transformed\savedstate-1.2.1\res
+com.maka.launcher.app-appcompat-1.6.1-34 C:\Users\Asus\.gradle\caches\8.10\transforms\72be3b1a92d480256ea67e91010521ca\transformed\appcompat-1.6.1\res
+com.maka.launcher.app-lifecycle-viewmodel-savedstate-2.6.2-35 C:\Users\Asus\.gradle\caches\8.10\transforms\7605be59ded2ebb47c50184dbf7c6abf\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.maka.launcher.app-fragment-1.5.1-36 C:\Users\Asus\.gradle\caches\8.10\transforms\7679fb4a8f365e6e7c30955ba3e45baf\transformed\fragment-1.5.1\res
+com.maka.launcher.app-recyclerview-1.1.0-37 C:\Users\Asus\.gradle\caches\8.10\transforms\77d6410e5f3564d612bcbbe73adef4f3\transformed\recyclerview-1.1.0\res
+com.maka.launcher.app-navigation-runtime-ktx-2.7.5-38 C:\Users\Asus\.gradle\caches\8.10\transforms\7a7f01533e083141afb62aade40c73c0\transformed\navigation-runtime-ktx-2.7.5\res
+com.maka.launcher.app-core-runtime-2.2.0-39 C:\Users\Asus\.gradle\caches\8.10\transforms\805273eabf2b0766d2a1ef122382a3e4\transformed\core-runtime-2.2.0\res
+com.maka.launcher.app-drawerlayout-1.1.1-40 C:\Users\Asus\.gradle\caches\8.10\transforms\81a644b48e59dd2f54a0dee554311e35\transformed\drawerlayout-1.1.1\res
+com.maka.launcher.app-navigation-common-ktx-2.7.5-41 C:\Users\Asus\.gradle\caches\8.10\transforms\83cf3d38f0b692e9b0d5ab9899d33be9\transformed\navigation-common-ktx-2.7.5\res
+com.maka.launcher.app-foundation-layout-release-42 C:\Users\Asus\.gradle\caches\8.10\transforms\8c23efc2d899219e4e5ca6fefed21049\transformed\foundation-layout-release\res
+com.maka.launcher.app-animation-release-43 C:\Users\Asus\.gradle\caches\8.10\transforms\90508ea9191503cf0427f0b6219bca23\transformed\animation-release\res
+com.maka.launcher.app-navigation-common-2.7.5-44 C:\Users\Asus\.gradle\caches\8.10\transforms\921367a7ede90b8857c471b76f6f3ad3\transformed\navigation-common-2.7.5\res
+com.maka.launcher.app-annotation-experimental-1.3.0-45 C:\Users\Asus\.gradle\caches\8.10\transforms\94ff70ca9bad1e7e19de48fb062a2659\transformed\annotation-experimental-1.3.0\res
+com.maka.launcher.app-savedstate-ktx-1.2.1-46 C:\Users\Asus\.gradle\caches\8.10\transforms\975afe64954397fe004f9cab59314b47\transformed\savedstate-ktx-1.2.1\res
+com.maka.launcher.app-lifecycle-livedata-core-2.6.2-47 C:\Users\Asus\.gradle\caches\8.10\transforms\99dda2f7ce542f7b67eac5b060d46ecd\transformed\lifecycle-livedata-core-2.6.2\res
+com.maka.launcher.app-ui-tooling-data-release-48 C:\Users\Asus\.gradle\caches\8.10\transforms\9ebde6f0c360de0352be766a250735c6\transformed\ui-tooling-data-release\res
+com.maka.launcher.app-hilt-navigation-compose-1.1.0-49 C:\Users\Asus\.gradle\caches\8.10\transforms\a13ace29345c688ce84586de5d7ae671\transformed\hilt-navigation-compose-1.1.0\res
+com.maka.launcher.app-viewpager2-1.0.0-50 C:\Users\Asus\.gradle\caches\8.10\transforms\a438bcc7ff13078bd406cb9d9754bc87\transformed\viewpager2-1.0.0\res
+com.maka.launcher.app-ui-geometry-release-51 C:\Users\Asus\.gradle\caches\8.10\transforms\a4b0f462c6fd96e91886758c6d8f8d40\transformed\ui-geometry-release\res
+com.maka.launcher.app-emoji2-views-helper-1.4.0-52 C:\Users\Asus\.gradle\caches\8.10\transforms\a4d38dc0074adbe82909e54a1b215b9a\transformed\emoji2-views-helper-1.4.0\res
+com.maka.launcher.app-appcompat-resources-1.6.1-53 C:\Users\Asus\.gradle\caches\8.10\transforms\aefbe52d88945cc905c291cd3fe4251b\transformed\appcompat-resources-1.6.1\res
+com.maka.launcher.app-lifecycle-viewmodel-ktx-2.6.2-54 C:\Users\Asus\.gradle\caches\8.10\transforms\b20bb14bcc518c8ce6ddb18ba2c690ca\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.maka.launcher.app-sqlite-2.4.0-55 C:\Users\Asus\.gradle\caches\8.10\transforms\b2e451b7f54d0d3bfa93ac8f52328e86\transformed\sqlite-2.4.0\res
+com.maka.launcher.app-ui-tooling-release-56 C:\Users\Asus\.gradle\caches\8.10\transforms\bb23fb1e6f25a9f92960aac7f1deacbb\transformed\ui-tooling-release\res
+com.maka.launcher.app-room-ktx-2.6.1-57 C:\Users\Asus\.gradle\caches\8.10\transforms\c08057322e3c4a142c697d717d915b57\transformed\room-ktx-2.6.1\res
+com.maka.launcher.app-core-1.12.0-58 C:\Users\Asus\.gradle\caches\8.10\transforms\c953b51dd8bf2708d2f02e2358a775a1\transformed\core-1.12.0\res
+com.maka.launcher.app-activity-compose-1.8.1-59 C:\Users\Asus\.gradle\caches\8.10\transforms\c9a2bd351b1d2924a750d3b27140305b\transformed\activity-compose-1.8.1\res
+com.maka.launcher.app-core-ktx-1.12.0-60 C:\Users\Asus\.gradle\caches\8.10\transforms\cb04f039628167e316e9a3bcd6ca7cee\transformed\core-ktx-1.12.0\res
+com.maka.launcher.app-ui-release-61 C:\Users\Asus\.gradle\caches\8.10\transforms\cb0fe49d44280ae4d0ce0beab3f15676\transformed\ui-release\res
+com.maka.launcher.app-play-services-base-18.0.0-62 C:\Users\Asus\.gradle\caches\8.10\transforms\cb9d2a4bed9b5dfd593edd42db99d7a1\transformed\play-services-base-18.0.0\res
+com.maka.launcher.app-ui-util-release-63 C:\Users\Asus\.gradle\caches\8.10\transforms\d0b2202fcb2cdeaf13ada777d8065a28\transformed\ui-util-release\res
+com.maka.launcher.app-cardview-1.0.0-64 C:\Users\Asus\.gradle\caches\8.10\transforms\d1a14fca5b15232561fd7e5c78acc6e0\transformed\cardview-1.0.0\res
+com.maka.launcher.app-play-services-ads-lite-22.5.0-65 C:\Users\Asus\.gradle\caches\8.10\transforms\d8875b663f0d1134f8552be25aba0294\transformed\play-services-ads-lite-22.5.0\res
+com.maka.launcher.app-play-services-basement-18.2.0-66 C:\Users\Asus\.gradle\caches\8.10\transforms\d96bbb4d2ec13b06d39881533ce56b96\transformed\play-services-basement-18.2.0\res
+com.maka.launcher.app-lifecycle-process-2.6.2-67 C:\Users\Asus\.gradle\caches\8.10\transforms\dfaad9ba18e49fef4c4636d16af05820\transformed\lifecycle-process-2.6.2\res
+com.maka.launcher.app-sqlite-framework-2.4.0-68 C:\Users\Asus\.gradle\caches\8.10\transforms\e13d5528e93d8329efed5f82072bf7e5\transformed\sqlite-framework-2.4.0\res
+com.maka.launcher.app-transition-1.2.0-69 C:\Users\Asus\.gradle\caches\8.10\transforms\e27c3480dfc1cd4a2f2b0df1b7ed119f\transformed\transition-1.2.0\res
+com.maka.launcher.app-lifecycle-runtime-2.6.2-70 C:\Users\Asus\.gradle\caches\8.10\transforms\e45be6aa8a0f80e089b82d4d8d80a99e\transformed\lifecycle-runtime-2.6.2\res
+com.maka.launcher.app-material-icons-core-release-71 C:\Users\Asus\.gradle\caches\8.10\transforms\e53a8e6778656c4ee756f515ae671a4c\transformed\material-icons-core-release\res
+com.maka.launcher.app-ui-text-release-72 C:\Users\Asus\.gradle\caches\8.10\transforms\e78a5beab9432c4f6e9f152ddd9251c1\transformed\ui-text-release\res
+com.maka.launcher.app-runtime-saveable-release-73 C:\Users\Asus\.gradle\caches\8.10\transforms\fa6a7ad01a88fc2a2668e0ffa70c50bd\transformed\runtime-saveable-release\res
+com.maka.launcher.app-material-1.10.0-74 C:\Users\Asus\.gradle\caches\8.10\transforms\fd085c5ff09671cb301c20f87a05d545\transformed\material-1.10.0\res
+com.maka.launcher.app-pngs-75 D:\pankaj ode\app blocker code\trae\app\build\generated\res\pngs\debug
+com.maka.launcher.app-resValues-76 D:\pankaj ode\app blocker code\trae\app\build\generated\res\resValues\debug
+com.maka.launcher.app-packageDebugResources-77 D:\pankaj ode\app blocker code\trae\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.maka.launcher.app-packageDebugResources-78 D:\pankaj ode\app blocker code\trae\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.maka.launcher.app-merged_res-79 D:\pankaj ode\app blocker code\trae\app\build\intermediates\merged_res\debug
+com.maka.launcher.app-debug-80 D:\pankaj ode\app blocker code\trae\app\src\debug\res
+com.maka.launcher.app-main-81 D:\pankaj ode\app blocker code\trae\app\src\main\res

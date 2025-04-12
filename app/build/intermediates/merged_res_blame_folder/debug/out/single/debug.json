@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/drawable_ic_logo.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_activity_launcher.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/activity_launcher.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_item_app.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/item_app.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_activity_app_drawer.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/activity_app_drawer.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_widget_usage.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/widget_usage.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_activity_favorite_apps.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/activity_favorite_apps.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_item_favorite_app.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/item_favorite_app.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_activity_focus_mode.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/activity_focus_mode.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_activity_blocker.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/activity_blocker.xml"
+    },
+    {
+        "merged": "com.maka.launcher.app-merged_res-79:/layout_dialog_app_options.xml.flat",
+        "source": "com.maka.launcher.app-main-81:/layout/dialog_app_options.xml"
+    }
+]

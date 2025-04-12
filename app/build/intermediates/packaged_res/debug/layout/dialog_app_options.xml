@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/add_to_favorites"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:text="Add to Favorites"
+        android:textSize="16sp"
+        android:drawablePadding="16dp"
+        android:drawableStart="@android:drawable/btn_star" />
+
+    <TextView
+        android:id="@+id/add_to_restricted"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:text="Add to Restricted Apps"
+        android:textSize="16sp"
+        android:drawablePadding="16dp"
+        android:drawableStart="@android:drawable/ic_lock_lock" />
+
+    <TextView
+        android:id="@+id/rename_app"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:text="Rename App"
+        android:textSize="16sp"
+        android:drawablePadding="16dp"
+        android:drawableStart="@android:drawable/ic_menu_edit" />
+
+    <TextView
+        android:id="@+id/app_info"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:text="App Info"
+        android:textSize="16sp"
+        android:drawablePadding="16dp"
+        android:drawableStart="@android:drawable/ic_menu_info_details" />
+
+    <TextView
+        android:id="@+id/uninstall_app"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:gravity="center_vertical"
+        android:text="Uninstall App"
+        android:textSize="16sp"
+        android:drawablePadding="16dp"
+        android:drawableStart="@android:drawable/ic_menu_delete" />
+
+</LinearLayout>

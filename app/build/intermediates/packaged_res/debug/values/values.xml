@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF4081</color>
+    <color name="brand_accent">#FF4081</color>
+    <color name="brand_accent_dark">#F50057</color>
+    <color name="brand_accent_light">#FF80AB</color>
+    <color name="brand_primary">#2196F3</color>
+    <color name="brand_primary_dark">#1976D2</color>
+    <color name="brand_primary_light">#64B5F6</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_divider">#424242</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_surface_variant">#2D2D2D</color>
+    <color name="dark_text_disabled">#66FFFFFF</color>
+    <color name="dark_text_primary">#FFFFFF</color>
+    <color name="dark_text_secondary">#B3FFFFFF</color>
+    <color name="error">#F44336</color>
+    <color name="gray_background">#E0E0E0</color>
+    <color name="gray_divider">#BDBDBD</color>
+    <color name="gray_surface">#F5F5F5</color>
+    <color name="gray_surface_variant">#EEEEEE</color>
+    <color name="gray_text_disabled">#9E9E9E</color>
+    <color name="gray_text_primary">#212121</color>
+    <color name="gray_text_secondary">#757575</color>
+    <color name="info">#2196F3</color>
+    <color name="light_background">#FFFFFF</color>
+    <color name="light_divider">#BDBDBD</color>
+    <color name="light_surface">#F5F5F5</color>
+    <color name="light_surface_variant">#E1E1E1</color>
+    <color name="light_text_disabled">#9E9E9E</color>
+    <color name="light_text_primary">#212121</color>
+    <color name="light_text_secondary">#757575</color>
+    <color name="logo_background">#000000</color>
+    <color name="logo_text">#FFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="widget_background">@color/light_surface</color>
+    <color name="widget_divider">@color/light_divider</color>
+    <color name="widget_text">@color/light_text_primary</color>
+    <color name="widget_text_secondary">@color/light_text_secondary</color>
+    <style name="Theme.Trae" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="27">true</item>
+    </style>
+    <style name="Theme.Trae.Dark" parent="Theme.Trae">
+        <item name="android:windowBackground">@color/dark_background</item>
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="android:textColorPrimary">@color/dark_text_primary</item>
+        <item name="android:textColorSecondary">@color/dark_text_secondary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="27">false</item>
+    </style>
+    <style name="Theme.Trae.Grayscale" parent="Theme.Trae">
+        <item name="android:windowBackground">@color/gray_background</item>
+        <item name="android:colorBackground">@color/gray_background</item>
+        <item name="android:textColorPrimary">@color/gray_text_primary</item>
+        <item name="android:textColorSecondary">@color/gray_text_secondary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="27">true</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="29">false</item>
+        <item name="android:colorMatrix" ns1:targetApi="29">0.33 0.33 0.33 0 0 0.33 0.33 0.33 0 0 0.33 0.33 0.33 0 0 0 0 0 1 0</item>
+    </style>
+    <style name="Theme.Trae.Light" parent="Theme.Trae">
+        <item name="android:windowBackground">@color/light_background</item>
+        <item name="android:colorBackground">@color/light_background</item>
+        <item name="android:textColorPrimary">@color/light_text_primary</item>
+        <item name="android:textColorSecondary">@color/light_text_secondary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="27">true</item>
+    </style>
+</resources>
